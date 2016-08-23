@@ -1,1 +1,23 @@
 /* Pon tu código css aqui */
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.block {
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.rosado {
+	background-color: #EE3E64;
+}
+
+.azul {
+	background-color: #44ACCF;
+}
+
+.verde {
+	background-color: #B7D84B;
+}
